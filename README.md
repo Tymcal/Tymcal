@@ -1,9 +1,11 @@
 ## 👋
 
-I’m currently working on **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij)** on iPad. <br/>
+I’m currently focusing on **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
 Next station? civilearn on web.
 
 - [MP Learn](https://mplearn.tymcal.com) (I hope my Raspberry Pi network is always up)
+
+### Design & Others
 - [Presentation Design](https://youtube.com/playlist?list=PLswrk0TnhDTM_ps2DWqFZp3hWwB3jlbFn&si=yYMyRDzyaXfJ1fwB)
 - [Publication & Visual Identity Design](https://photos.app.goo.gl/5jdfL6xtozHj8A7F6)
 - [Others](https://drive.google.com/drive/folders/1kZb_DGpMG4lKpuZ9_9_p6rQs_z4yfNOj?usp=share_link)
