@@ -3,7 +3,7 @@
 I’m currently focusing on **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
 Next station? civilearn on web.
 
-- [MP Learn](https://mplearn.tymcal.com) (I hope my Raspberry Pi network is always up)
+- [MP Learn](https://tymcal.com/mplearn) (I hope my Raspberry Pi network is always up)
 
 ### Design & Others
 - [Presentation Design](https://youtube.com/playlist?list=PLswrk0TnhDTM_ps2DWqFZp3hWwB3jlbFn&si=yYMyRDzyaXfJ1fwB)
