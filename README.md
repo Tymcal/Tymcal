@@ -1,7 +1,7 @@
 ## 👋
 
-I’m currently focusing on **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
-Next station? civilearn on web.
+✅ **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
+I’m currently focusing on civilearn on web.
 
 - [MP Learn](https://tymcal.com/mplearn) (I hope my Raspberry Pi network is always up)
 
