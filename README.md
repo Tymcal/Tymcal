@@ -2,8 +2,8 @@
 
 ✅ **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
 I’m currently focusing on civilearn on web.
-- **[BrainBrief](brainbrief.tech)**
-- **[Kinrydy](kinrydy.vercel.app)**
+- **[BrainBrief](https://brainbrief.tech)**
+- **[Kinrydy](https://kinrydy.vercel.app)**
 
 - [MP Learn](https://tymcal.com/mplearn) is my friend's tutoring service (I hope my Raspberry Pi network is always up)
 
