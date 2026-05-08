@@ -1,8 +1,9 @@
 ## 👋
 
 ✅ **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
+✅ **[BrainBrief](https://brainbrief.tech)** Study sheet marketplace for university students. feel free to try (or sell/buy)!
+
 I’m currently focusing on civilearn on web. **[now Slideflow](https://slideflow.vercel.app/flows/1)**
-- **[BrainBrief](https://brainbrief.tech)**
 - **[Kinrydy](https://kinrydy.vercel.app)**
 
 - [MP Learn](https://tymcal.com/mplearn) is my friend's tutoring service (I hope my Raspberry Pi network is always up)
