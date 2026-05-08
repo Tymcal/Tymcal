@@ -1,7 +1,7 @@
 ## 👋
 
 ✅ **[civilearn](https://youtu.be/ttMuAwnMENY?si=ZvE-fvRx0QeTk_Ij) on iPad**. <br/>
-I’m currently focusing on civilearn on web.
+I’m currently focusing on civilearn on web. **[now Slideflow](https://slideflow.vercel.app/flows/1)**
 - **[BrainBrief](https://brainbrief.tech)**
 - **[Kinrydy](https://kinrydy.vercel.app)**
 
